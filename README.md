@@ -1,1 +1,41 @@
-"# Latihan Git dan GitHub PROJECT CAPSTONE" 
+<div align="center">
+
+# 🌸 Capstone Project — Kelompok 14 🌸
+### *Automated Driving Theory Exam Question Generator*
+
+<img src="https://img.shields.io/badge/Class-7B-ffb6c1?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Academic_Year-2026-ffc0cb?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Stack-ASP.NET_Core_|_Ollama_RAG-e6e6fa?style=for-the-badge&logoColor=black" />
+
+---
+
+<p align="center">
+  <i>Pengembangan Sistem Generator Soal Ujian Teori Berkendaraan Otomatis Berbasis Large Language Model (LLM) dan Retrieval-Augmented Generation (RAG) dari Dokumen Peraturan Keselamatan</i> 👑
+</p>
+
+</div>
+
+<br/>
+
+## 🎀 About The Project
+
+Project Capstone ini bertujuan untuk memperluas sistem **IMKP (PT Pertamina Patra Niaga RU II Dumai)** dengan mengintegrasikan modul **RAG (Retrieval-Augmented Generation)** dan **LLM Lokal (Ollama)**. 
+
+Sistem ini membantu pembuatan bank soal ujian teori berkendara secara otomatis yang terhubung langsung dengan dokumen peraturan keselamatan, dilengkapi dengan sitasi sumber, pemeriksaan otomatis, serta alur review manusia.
+
+---
+
+## 👩‍💻 Team Members
+
+| Photo / Badge | Name | NPM | Role & Responsibilities |
+| :---: | :--- | :---: | :--- |
+| 🌷 | **Dwi Nabila Dhiya Ulhaq** *(Co-ordinator)* | `233510384` | Backend & RAG Pipeline, Automatic Verification, Integration |
+| 🪞 | **Tasya Mulyani** | `233510145` | Web Interface & User Flow, User Testing (SUS), Documentation |
+
+---
+
+<div align="center">
+
+*✨ Created with love and dedication by Kelompok 14 — Class 7B ✨*
+
+</div>
