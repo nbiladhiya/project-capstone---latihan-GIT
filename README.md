@@ -20,7 +20,7 @@ Sistem ini membantu pembuatan bank soal ujian teori berkendara secara otomatis y
 
 ## 👩‍💻 Anggota Kelompok
 
-| Photo / Badge | Name | NPM | Role & Responsibilities |
+|hi| Name | NPM | Role & Responsibilities |
 | :---: | :--- | :---: | :--- |
 | 🌷 | **Dwi Nabila Dhiya Ulhaq**  | `233510384` | Backend & RAG Pipeline, Automatic Verification, Integration |
 | 🪞 | **Tasya Mulyani** | `233510145` | Web Interface & User Flow, User Testing (SUS), Documentation |
