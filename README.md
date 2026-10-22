@@ -3,11 +3,6 @@
 # 🌸 Capstone Project — Kelompok 14 🌸
 ### *Automated Driving Theory Exam Question Generator*
 
-<img src="https://img.shields.io/badge/Class-7B-ffb6c1?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/Academic_Year-2026-ffc0cb?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/Stack-ASP.NET_Core_|_Ollama_RAG-e6e6fa?style=for-the-badge&logoColor=black" />
-
----
 
 <p align="center">
   <i>Pengembangan Sistem Generator Soal Ujian Teori Berkendaraan Otomatis Berbasis Large Language Model (LLM) dan Retrieval-Augmented Generation (RAG) dari Dokumen Peraturan Keselamatan</i> 👑
